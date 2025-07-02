@@ -1,3 +1,4 @@
+//finding powersets of unique elements in an array
 class Solution {
 public:
     void allsubsets(vector<int> &arr, vector<int> &ans, int i, vector<vector<int>> &powersets)
